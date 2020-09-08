@@ -62,8 +62,10 @@ Add Sticky Notes to the Google JamBoard linked to from [https://rse.shef.ac.uk/c
     * use the Pen tool to annotate a Sticky Note with +1.
 
 ---
-## Feedback
+## Feedback / links
 
-This first session was an experiment - feedback on format/content welcome! 
+* This first session was an experiment - feedback on format/content welcome! 
 
-* Contact `lunchbytes-organisers-group@sheffield.ac.uk`
+    * `lunchbytes-organisers-group@sheffield.ac.uk`
+
+* These slides: [https://rse.shef.ac.uk/lunch-bytes-intro1](https://rse.shef.ac.uk/lunch-bytes-intro1)
