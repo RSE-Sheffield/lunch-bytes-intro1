@@ -38,16 +38,16 @@ We'll (re)visit these after the talks.
 ## Future events
 
 * <code>lunchBytes</code> #2: 7th October
-    * Theme: "Notebooks: pros and cons"
+    * Theme: *Notebooks: pros and cons*
     * Could you talk at this or know someone who could/should?
 
-* Notifications via the RSE mailing list:
+* Notifications via our mailing list for researchers and RSEs:
     * [https://rse.shef.ac.uk/community/](https://rse.shef.ac.uk/community/)
 
 ---
 ## Getting involved
 
-We (the LunchBytes community) want:
+We (the <code>lunchBytes</code> community) want:
 
   * Suggestions for 
       * themes for talks
