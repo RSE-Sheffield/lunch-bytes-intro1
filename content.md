@@ -35,9 +35,13 @@ We'll (re)visit these after the talks.
 ## Q&A
 
 ---
-## Notifications re future events
+## Future events
 
-* Sign up to RSE team's mailing list:
+* <code>lunchBytes</code> #2: 7th October
+    * Theme: "Notebooks: pros and cons"
+    * Could you talk at this or know someone who could/should?
+
+* Notifications via the RSE mailing list:
     * [https://rse.shef.ac.uk/community/](https://rse.shef.ac.uk/community/)
 
 ---
